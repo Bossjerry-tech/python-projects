@@ -1,0 +1,104 @@
+Transaction_ID,Date,Customer_Name,Product_Category,Amount_USD,Status,Customer_Email,job_provider
+1001,2025-02-21,Alice Mwangi,cloud storage,4288.81,Completed,user0@example.com,google
+1002,2025-01-15,Alice Mwangi,cloud storage,2052.32,Cancelled,user1@example.com,Google Inc.
+1003,2025-03-13,Alice Mwangi,cloud storage,4444.46,Pending,user2@example.com,Google Inc.
+1004,2025-03-02,David K.,cloud storage,4262.1,Completed,user3@example.com,google
+1005,2025-01-21,Catherine J.,cloud storage,,Pending,user4@example.com,Microsoft 
+1006,2025-03-24,Catherine J.,cloud storage,3937.44,Cancelled,user5@example.com,  Amazon
+1007,2025-03-28,Alice Mwangi,Web Hosting,3361.49,Cancelled,user6@example.com,
+1008,2025-03-16,Catherine J.,Software License,2924.4,Cancelled,user7@example.com,Google Inc.
+1009,2025-03-16,Catherine J.,Cloud Storage,1892.8,Completed,user8@example.com,
+1010,2025-03-29,Alice Mwangi,Cloud Storage,4703.66,Pending,user9@example.com,Upwork
+1011,2025-01-24,Catherine J.,Web Hosting,4869.64,COMPLETED ,user10@example.com,Indeed
+1012,2025-01-03,Elena S.,Consulting,1455.41,COMPLETED ,user11@example.com,Microsoft 
+1013,2025-01-22,Brian Omondi,Cloud Storage,1561.55,COMPLETED ,user12@example.com,
+1014,2025-02-22,Brian Omondi,Consulting,,COMPLETED ,user13@example.com,Upwork
+1015,2025-01-02,Alice Mwangi,Cloud Storage,2269.7,COMPLETED ,user14@example.com,Google Inc.
+1016,2025-03-29,David K.,Consulting,4972.56,COMPLETED ,user15@example.com,Upwork
+1017,2025-01-30,Alice Mwangi,Software License,920.83,Pending,user16@example.com,
+1018,2025-02-07,David K.,Consulting,,Cancelled,user17@example.com,Upwork
+1019,2025-01-02,Brian Omondi,Software License,2494.77,Pending,user18@example.com,  Amazon
+1020,2025-03-05,Alice Mwangi,Software License,935.17,Completed,user19@example.com,Upwork
+1021,2025-03-01,Elena S.,Consulting,999999.0,Pending,user20@example.com,Indeed
+1022,2025-01-21,Catherine J.,Software License,3733.64,Completed,user21@example.com,LinkedIn
+1023,2025-02-02,David K.,Web Hosting,3618.65,Pending,user22@example.com,Microsoft 
+1024,2025-03-17,Catherine J.,Software License,1574.9,Cancelled,user23@example.com,google
+1025,2025-02-27,Catherine J.,Cloud Storage,2735.57,Cancelled,user24@example.com,Upwork
+1026,2025-01-22,Alice Mwangi,Consulting,2568.63,Completed,user25@example.com,Google Inc.
+1027,2025-03-30,Catherine J.,Web Hosting,3199.85,Completed,user26@example.com,Upwork
+1028,2025-02-18,Elena S.,Consulting,1289.79,Completed,user27@example.com,Google Inc.
+1029,2025-02-28,Catherine J.,Cloud Storage,2969.86,Pending,user28@example.com,Indeed
+1030,2025-02-11,Alice Mwangi,Cloud Storage,4895.52,Pending,user29@example.com,Google Inc.
+1031,2025-03-01,Elena S.,Cloud Storage,2459.37,Completed,user30@example.com,google
+1032,2025-03-21,Brian Omondi,Software License,4535.19,Cancelled,user31@example.com,LinkedIn
+1033,2025-01-15,Catherine J.,Software License,2200.25,Pending,user32@example.com,Google Inc.
+1034,2025-03-03,Alice Mwangi,Consulting,1782.89,Pending,user33@example.com,Google Inc.
+1035,2025-03-03,Brian Omondi,Consulting,,Pending,user34@example.com,LinkedIn
+1036,2025-02-16,Brian Omondi,Web Hosting,3361.17,Completed,user35@example.com,google
+1037,2025-03-03,David K.,Web Hosting,4327.63,Completed,user36@example.com,Upwork
+1038,2025-02-20,Elena S.,Consulting,1189.42,Completed,user37@example.com,Google Inc.
+1039,2025-02-24,Catherine J.,Software License,,Completed,user38@example.com,LinkedIn
+1040,2025-03-05,Alice Mwangi,Cloud Storage,2881.42,Completed,user39@example.com,
+1041,2025-01-03,David K.,Consulting,3854.34,Cancelled,user40@example.com,LinkedIn
+1042,2025-02-20,Elena S.,Web Hosting,265.84,Cancelled,user41@example.com,Indeed
+1043,2025-01-07,David K.,Software License,4973.03,Completed,user42@example.com,google
+1044,2025-01-21,Elena S.,Consulting,2376.23,Pending,user43@example.com,Upwork
+1045,2025-03-14,Elena S.,Consulting,1433.82,Completed,user44@example.com,LinkedIn
+1046,2025-02-08,Catherine J.,Software License,4423.3,Cancelled,user45@example.com,
+1047,2025-01-18,Elena S.,Consulting,3751.21,Cancelled,user46@example.com,Microsoft 
+1048,2025-01-04,David K.,Software License,4767.71,Pending,user47@example.com,  Amazon
+1049,2025-03-30,Elena S.,Cloud Storage,1687.21,Cancelled,user48@example.com,Google Inc.
+1050,2025-03-01,Catherine J.,Software License,2786.19,Completed,user49@example.com,google
+1051,2025-01-14,Catherine J.,Software License,2882.85,Pending,user50@example.com,LinkedIn
+1052,2025-01-09,David K.,Software License,4902.64,Completed,user51@example.com,Microsoft 
+1053,2025-03-31,Brian Omondi,Consulting,422.96,Completed,user52@example.com,Google Inc.
+1054,2025-02-22,Brian Omondi,Consulting,1563.2,Pending,user53@example.com,Microsoft 
+1055,2025-01-02,Elena S.,Software License,995.01,Completed,user54@example.com,LinkedIn
+1056,2025-03-25,Alice Mwangi,Consulting,1378.95,Cancelled,user55@example.com,Indeed
+1057,2025-03-01,Elena S.,Web Hosting,2452.14,Completed,user56@example.com,LinkedIn
+1058,2025-03-12,David K.,Web Hosting,1894.8,Pending,user57@example.com,
+1059,2025-02-13,David K.,Consulting,2003.72,Pending,user58@example.com,LinkedIn
+1060,2025-01-08,David K.,Consulting,4228.86,Pending,user59@example.com,LinkedIn
+1061,2025-02-16,David K.,Software License,4653.58,Completed,user60@example.com,  Amazon
+1062,2025-02-04,David K.,Cloud Storage,398.56,Pending,user61@example.com,google
+1063,2025-03-19,Catherine J.,Consulting,1084.15,Pending,user62@example.com,LinkedIn
+1064,2025-03-22,Brian Omondi,Web Hosting,3372.16,Completed,user63@example.com,  Amazon
+1065,2025-02-05,David K.,Software License,1825.3,Cancelled,user64@example.com,Google Inc.
+1066,2025-02-19,Alice Mwangi,Consulting,1308.11,Completed,user65@example.com,Indeed
+1067,2025-01-04,Alice Mwangi,Web Hosting,1511.69,Pending,user66@example.com,Indeed
+1068,2025-01-02,Alice Mwangi,Web Hosting,1646.63,Pending,user67@example.com,LinkedIn
+1069,2025-01-06,Alice Mwangi,Cloud Storage,4250.92,Completed,user68@example.com,google
+1070,2025-02-23,Catherine J.,Software License,726.28,Cancelled,user69@example.com,google
+1071,2025-01-04,Alice Mwangi,Software License,3559.11,Pending,user70@example.com,Google Inc.
+1072,2025-02-23,David K.,Cloud Storage,2786.46,Pending,user71@example.com,LinkedIn
+1073,2025-03-04,Elena S.,Cloud Storage,1517.73,Pending,user72@example.com,Indeed
+1074,2025-01-18,Alice Mwangi,Software License,2127.92,Completed,user73@example.com,
+1075,2025-03-31,Catherine J.,Software License,,Pending,user74@example.com,LinkedIn
+1076,2025-02-13,Catherine J.,Consulting,,Cancelled,user75@example.com,Microsoft 
+1077,2025-02-03,Alice Mwangi,Consulting,453.89,Pending,user76@example.com,google
+1078,2025-03-15,Elena S.,Cloud Storage,75.67,Pending,user77@example.com,  Amazon
+1079,2025-03-03,Alice Mwangi,Consulting,3158.08,Cancelled,user78@example.com,Microsoft 
+1080,2025-01-14,Catherine J.,Web Hosting,1011.66,Pending,user79@example.com,google
+1081,2025-02-17,Brian Omondi,Consulting,401.16,Completed,user80@example.com,Indeed
+1082,2025-01-15,David K.,Consulting,2014.08,Completed,user81@example.com,Upwork
+1083,2025-03-13,Catherine J.,Web Hosting,301.3,Completed,user82@example.com,Microsoft 
+1084,2025-03-19,Alice Mwangi,Cloud Storage,4438.75,Cancelled,user83@example.com,Google Inc.
+1085,2025-03-28,David K.,Web Hosting,186.7,Pending,user84@example.com,Google Inc.
+1086,2025-03-03,Alice Mwangi,Consulting,2915.38,Completed,user85@example.com,Indeed
+1087,2025-02-09,Alice Mwangi,Cloud Storage,,Cancelled,user86@example.com,google
+1088,2025-03-26,Brian Omondi,Consulting,3376.53,Pending,user87@example.com,LinkedIn
+1089,2025-03-21,David K.,Web Hosting,1674.36,Cancelled,user88@example.com,google
+1090,2025-03-23,David K.,Web Hosting,817.46,Completed,user89@example.com,Indeed
+1091,2025-02-22,Brian Omondi,Consulting,4910.11,Completed,user90@example.com,Google Inc.
+1092,2025-01-24,Catherine J.,Software License,4202.72,Completed,user91@example.com,google
+1093,2025-01-26,Alice Mwangi,Software License,,Cancelled,user92@example.com,Google Inc.
+1094,2025-03-30,Elena S.,Web Hosting,1288.74,Cancelled,user93@example.com,Microsoft 
+1095,2025-03-01,Alice Mwangi,Web Hosting,,Completed,user94@example.com,LinkedIn
+1096,2025-02-10,Alice Mwangi,Software License,1551.16,Cancelled,user95@example.com,Microsoft 
+1097,2025-01-29,Catherine J.,Software License,2708.56,Completed,user96@example.com,Google Inc.
+1098,2025-01-15,Alice Mwangi,Consulting,1666.92,Completed,user97@example.com,Google Inc.
+1099,2025-02-14,Brian Omondi,Consulting,4147.95,Pending,user98@example.com,Upwork
+1100,2025-03-06,Brian Omondi,Software License,1394.14,Cancelled,user99@example.com,Upwork
+1001,2025-02-21,Alice Mwangi,cloud storage,4288.81,Completed,user0@example.com,google
+1002,2025-01-15,Alice Mwangi,cloud storage,2052.32,Cancelled,user1@example.com,Google Inc.
+1003,2025-03-13,Alice Mwangi,cloud storage,4444.46,Pending,user2@example.com,Google Inc.

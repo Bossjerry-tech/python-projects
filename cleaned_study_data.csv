@@ -1,0 +1,16 @@
+Transaction_ID,Product_Category,Amount_USD,Status,job_provider
+101,Consulting,1200.0,Completed,Google Inc.
+102,Web Hosting,450.0,Pending,google
+103,Consulting,3200.0,Pending,Microsoft 
+104,Consulting,850.0,Pending,Microsoft 
+105,Web Hosting,999999.0,Pending,
+106,Web Hosting,150.0,Completed,Indeed
+107,Consulting,2100.0,Completed,Upwork
+108,Cloud Storage,550.0,Pending,Upwork
+109,Consulting,1800.0,Pending,Indeed
+110,Consulting,4200.0,Completed,Upwork
+111,Consulting,300.0,Completed,  Amazon
+112,Consulting,950.0,Completed,Microsoft 
+113,Web Hosting,1240.0,Cancelled,Indeed
+114,Consulting,,Cancelled,
+115,Cloud Storage,700.0,Cancelled,google

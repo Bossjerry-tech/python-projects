@@ -1,0 +1,11 @@
+job_id,job_title,company,location,employment_type,experience_level,salary_range,remote,posted_by_gender,contact_email,phone,required_skills
+201, data-scientist ,Google,nairobi ,full-time,Senior ,KES 100k-150k, yes ,m,hr@google.com ,+254712345678,"python, sql,Machine Learning "
+202,software engineer,microsoft, Nairobi,Full Time,mid-level,$120K - 180K,No,F,jobs@microsoft..com,0712-345-678,"C++, .NET, AZURE"
+203,frontend-developer,Andela,remote,contract , junior,,True,female , careers@andela.com,(+254)712345678,"React js, HTML , css "
+204, data analyst,safaricom,NAIROBI,FULL-TIME ,Entry Level,80k- 120k,no ,M ,hr@safaricom.co.ke,712345678,"Excel,SQL, power-bi"
+205,devops-engineer ,amazon,nairobi kenya,full_time,Senior,150k-200k,YES,f,jobs@amazon,+254 712 345 678,"aws, docker ,Kubernetes"
+206,,Meta,Remote ,Part-Time,Mid Level ,200K-300K ,yes,,meta@meta.com,invalid_number,Python|SQL|AI
+207,backend developer,netflix,  nairobi,full-time,senior,180k -250k,No,Male,jobs@netflix.com,+1-800-123-4567,"Node.js,Express, MongoDB "
+208,data-engineer,IBM,Nairobi ,Full-time ,MID-LEVEL,130K-170K, no,FEMALE,ibm careers@ibm.com,0722 123 456,"Python, Spark , Hadoop"
+209, ai engineer ,openAI,San Francisco ,full time,Senior,USD 250k- 400k,Yes ,f ,jobs@openai.com,+254-712-000-000,"Python, Deep Learning, NLP "
+210,12345,stripe, remote,contract,junior ,90k-110k,yes,M,stripe.com,07abc12345,"apis, json ,REST "
